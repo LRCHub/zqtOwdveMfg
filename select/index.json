@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "口なしの黒百合",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-11T12:13:27.151509Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "口なしの黒百合",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_口なしの黒百合_ウォルピスカーター.txt"
+    }
+  ]
+}
